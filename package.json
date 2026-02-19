@@ -1,6 +1,8 @@
 {
+  "name": "my-vercel-site",
+  "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
-    "discord.js-selfbot-v13": "^3.7.1",
-    "express": "^5.2.1"
+    "express": "^4.18.2"
   }
 }
